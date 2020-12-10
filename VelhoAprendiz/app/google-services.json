@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1043384789403",
+    "firebase_url": "https://velho-aprendiz.firebaseio.com",
+    "project_id": "velho-aprendiz",
+    "storage_bucket": "velho-aprendiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043384789403:android:f5e8d9a43c41579b62993e",
+        "android_client_info": {
+          "package_name": "com.ajudar.velhoaprendiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043384789403-9ntphn21f2iqu4uldll1jknelr2fe4ll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajudar.velhoaprendiz",
+            "certificate_hash": "065a31e6d8769d0b913834ba215a0f9bd88a826f"
+          }
+        },
+        {
+          "client_id": "1043384789403-9kkknnulfsdbve3cvdji98iorc5b4p75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPJrVD8t6u2jpEaO6ZzbGlCK2NdwPP-uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043384789403-9kkknnulfsdbve3cvdji98iorc5b4p75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043384789403:android:f0fe7b7af3dd372062993e",
+        "android_client_info": {
+          "package_name": "com.example.vmac.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043384789403-avl92ap6ekfbjr2ebg5n4o5f8vgv6dlm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vmac.chatbot",
+            "certificate_hash": "065a31e6d8769d0b913834ba215a0f9bd88a826f"
+          }
+        },
+        {
+          "client_id": "1043384789403-9kkknnulfsdbve3cvdji98iorc5b4p75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPJrVD8t6u2jpEaO6ZzbGlCK2NdwPP-uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043384789403-9kkknnulfsdbve3cvdji98iorc5b4p75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
